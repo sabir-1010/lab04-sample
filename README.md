@@ -29,3 +29,20 @@ print("Number of Cs:", CountC)
 print("Number of Ds:", CountD)
 print("Number of Fs:", CountF)
 ```
+
+
+## Sample Solution: TASK1
+
+using while loop
+```python
+num = 0
+while num <= 100:
+ print(num)
+ num = num + 2
+```
+
+using foor loop
+```python
+for num in range(0,101,2):
+ print(num)
+```
